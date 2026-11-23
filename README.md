@@ -1,8 +1,8 @@
 # news-image-20261122
 
 [![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261122/MuhammadRaffiAlfarizi/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/MuhammadRaffiAlfarizi/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/MuhammadRaffiAlfarizi/news-image-20261122-/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/MuhammadRaffiAlfarizi/news-image-20261122-/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A newspaper front page in one image that sums up Sunday 22 November 2026's world news: the COP31 climate talks collapse as the lead story, a Russian warship hit by a suspected Ukrainian sea drone at Benghazi, 14 missing after a Russian drone hits flats near Kyiv, an Iranian strike on a civilian site in Bahrain, and the BepiColombo probe reaching Mercury orbit, plus the Democrats' 258-seat US House majority, the burning Russian cargo ship Sparta II, the Nigeria funeral boat tragedy, France's sixth weekend of protests, and Brazil's deadly storm in the "Also today" strip. The image is drawn programmatically (flat vector-style pictograms, typeset headlines) so every word stays legible to the AI judge, which has no news feed and judges the image as a picture editor would.
 
